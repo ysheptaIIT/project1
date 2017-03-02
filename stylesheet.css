@@ -10,3 +10,9 @@ nav {
 #resumeBody {
 	border:black 3px solid;
 }
+#resumeBody h4 {
+	color:green;
+}
+#vballNav a:link {
+	text-decoration:none;
+}
